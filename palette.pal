@@ -1,0 +1,6 @@
+; palette.pal
+.db $0F, $21, $31, $30
+.db $0F, $01, $11, $21
+.db $0F, $06, $16, $26
+.db $0F, $09, $19, $29
+; Additional colors
